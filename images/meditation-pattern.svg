@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.1">
+    <circle cx="720" cy="512" r="300" stroke="currentColor" stroke-width="2" fill="none" />
+    <circle cx="720" cy="512" r="200" stroke="currentColor" stroke-width="2" fill="none" />
+    <circle cx="720" cy="512" r="100" stroke="currentColor" stroke-width="2" fill="none" />
+  </g>
+  <g opacity="0.05">
+    <path d="M600 400 C 650 350, 790 350, 840 400" stroke="currentColor" stroke-width="2" fill="none" />
+    <path d="M600 450 C 650 400, 790 400, 840 450" stroke="currentColor" stroke-width="2" fill="none" />
+    <path d="M600 500 C 650 450, 790 450, 840 500" stroke="currentColor" stroke-width="2" fill="none" />
+  </g>
+  <g opacity="0.03">
+    <circle cx="300" cy="200" r="5" fill="currentColor" />
+    <circle cx="1100" cy="300" r="5" fill="currentColor" />
+    <circle cx="400" cy="800" r="5" fill="currentColor" />
+    <circle cx="900" cy="700" r="5" fill="currentColor" />
+  </g>
+</svg> 

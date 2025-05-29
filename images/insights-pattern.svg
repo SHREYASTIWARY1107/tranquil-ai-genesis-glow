@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.1">
+    <path d="M200 500 L 300 400 L 400 600 L 500 300 L 600 500" stroke="currentColor" stroke-width="2" fill="none" />
+    <path d="M700 600 L 800 400 L 900 500 L 1000 300 L 1100 450" stroke="currentColor" stroke-width="2" fill="none" />
+  </g>
+  <g opacity="0.05">
+    <rect x="200" y="500" width="20" height="100" fill="currentColor" />
+    <rect x="400" y="600" width="20" height="150" fill="currentColor" />
+    <rect x="600" y="450" width="20" height="200" fill="currentColor" />
+    <rect x="800" y="350" width="20" height="250" fill="currentColor" />
+  </g>
+  <g opacity="0.03">
+    <circle cx="300" cy="400" r="4" fill="currentColor" />
+    <circle cx="500" cy="300" r="4" fill="currentColor" />
+    <circle cx="800" cy="400" r="4" fill="currentColor" />
+    <circle cx="1000" cy="300" r="4" fill="currentColor" />
+  </g>
+</svg> 

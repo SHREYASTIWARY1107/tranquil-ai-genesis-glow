@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g opacity="0.1">
+    <rect x="100" y="100" width="100" height="2" rx="1" stroke="currentColor" />
+    <rect x="100" y="150" width="200" height="2" rx="1" stroke="currentColor" />
+    <rect x="100" y="200" width="150" height="2" rx="1" stroke="currentColor" />
+    <rect x="400" y="300" width="180" height="2" rx="1" stroke="currentColor" />
+    <rect x="400" y="350" width="120" height="2" rx="1" stroke="currentColor" />
+    <rect x="700" y="500" width="160" height="2" rx="1" stroke="currentColor" />
+    <rect x="700" y="550" width="140" height="2" rx="1" stroke="currentColor" />
+    <rect x="1000" y="700" width="200" height="2" rx="1" stroke="currentColor" />
+    <rect x="1000" y="750" width="150" height="2" rx="1" stroke="currentColor" />
+  </g>
+  <g opacity="0.05">
+    <circle cx="200" cy="200" r="4" fill="currentColor" />
+    <circle cx="500" cy="400" r="4" fill="currentColor" />
+    <circle cx="800" cy="600" r="4" fill="currentColor" />
+    <circle cx="1100" cy="800" r="4" fill="currentColor" />
+  </g>
+</svg> 
