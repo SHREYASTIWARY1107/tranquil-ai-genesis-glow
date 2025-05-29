@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/tranquil-ai-genesis-glow/", // 👈 Add this line
+  base: "/tranquil-ai-genesis-glow/", // ✅ This is correct
   server: {
     host: "::",
     port: 8080,
